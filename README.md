@@ -1,5 +1,3 @@
-Hello! I'm Rafael, fullstack web & game developer.
-
 rafaeluchoarj@gmail.com
 
 <h2 align="left">What I work with</h2>
