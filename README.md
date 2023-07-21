@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-uchoa&layout=compact&theme=github_dark&hide=rich%20text%20format,javascript,css,glsl,html&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-uchoa&layout=pie&theme=github_dark&hide=rich%20text%20format,javascript,css,glsl,html&size_weight=0.5&count_weight=0.5)
